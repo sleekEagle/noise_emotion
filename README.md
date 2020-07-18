@@ -26,3 +26,5 @@ PLoS ONE 13(5): e0196391. https://doi.org/10.1371/journal.pone.0196391.
 
 [2] F. Burkhardt, A. Paeschke, M. Rolfes, W. F. Sendlmeier, B. Weiss, A database of German emotional speech,
 in: Ninth European Conferenceon Speech Communication and Technology, 2005
+
+Comming up : (Our paper)
